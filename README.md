@@ -1,6 +1,5 @@
 # Backend-service-with-auth-DB-caching-tests-CI-CD
 
-
 Features:
 	•	User registration/login
 	•	CRUD APIs
